@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760155472171",
+    "firebase_url": "https://orderfood-8b5b2.firebaseio.com",
+    "project_id": "orderfood-8b5b2",
+    "storage_bucket": "orderfood-8b5b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760155472171:android:b8ca8d1082186788de856e",
+        "android_client_info": {
+          "package_name": "com.example.zalochat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760155472171-pg9apcbv5aavpg3m7e030ecqd1djomnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zalochat2",
+            "certificate_hash": "fc07d7dbcd565ae6c33535b4f160070fcfd377df"
+          }
+        },
+        {
+          "client_id": "760155472171-d7orpm023384eqmi2u7uvprvkm0l01e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw3KXylQIcyKwPIB5LJmeqEsbhyXf10kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760155472171-d7orpm023384eqmi2u7uvprvkm0l01e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
